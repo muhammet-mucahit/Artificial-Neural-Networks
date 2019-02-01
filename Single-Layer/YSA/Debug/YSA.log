@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(460): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(464): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(468): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(472): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(476): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(480): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(525): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(526): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(554): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-layer\ysa\myform.h(557): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Matrix.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  YSA.vcxproj -> C:\Users\Mucahit\Desktop\Single-Layer\Debug\YSA.exe

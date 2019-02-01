@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\users\mucahit\desktop\single-neuron\ysa\myform.h(360): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-neuron\ysa\myform.h(364): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-neuron\ysa\myform.h(397): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-neuron\ysa\myform.h(398): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-neuron\ysa\myform.h(426): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\mucahit\desktop\single-neuron\ysa\myform.h(429): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Matrix.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  YSA.vcxproj -> C:\Users\Mucahit\Desktop\Single-Neuron\Debug\YSA.exe
